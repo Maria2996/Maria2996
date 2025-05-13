@@ -1,13 +1,13 @@
 ## Maria2996
-Programadora Front End en formación, con sólida experiencia previa en atención al cliente, precisión y trabajo en equipo. Destaco por mi aprendizaje rápido, adaptabilidad y compromiso. Me apasiona crear interfaces funcionales, accesibles y visualmente atractivas. Busco ### Contacto
-[![Linkedin](https://github.com/Maria2996/Maria2996/blob/main/images/linkedin.png?raw=true)](https://www.linkedin.com/in/mar%C3%ADa-romero-283006117/)
-[![GitHub](https://github.com/Maria2996/Maria2996/blob/main/images/github.png?raw=true)](https://github.com/Maria2996)
-
+Programadora Front End en formación, con sólida experiencia previa en atención al cliente, precisión y trabajo en equipo. Destaco por mi aprendizaje rápido, adaptabilidad y compromiso. Me apasiona crear interfaces funcionales, accesibles y visualmente atractivas. Busco seguir creciendo en el sector tech aportando mi mirada desde la experiencia humana y multicultural.
+### Contacto
+[![Linkedin](images/linkedin.png)](https://www.linkedin.com/in/mar%C3%ADa-romero-283006117/)
+[![GitHub](images/github.png)](https://github.com/Maria2996)
 ### Lenguajes
-![HTML5](https://github.com/Maria2996/Maria2996/blob/main/images/html5.png?raw=true)
-![CSS3](https://github.com/Maria2996/Maria2996/blob/main/images/CSS3.png?raw=true)
+![HTML5](images/html5.png)
+![CSS3](images/CSS3.png)
 
 ### Herramientas
-![VSCode](https://github.com/Maria2996/Maria2996/blob/main/images/vscode.png?raw=true)
-![Figma](https://github.com/Maria2996/Maria2996/blob/main/images/figma.png?raw=true)
-![Slack](https://github.com/Maria2996/Maria2996/blob/main/images/slack.png?raw=true)
+![VSCode](images/vscode.png)
+![Figma](images/figma.png)
+![Slack](images/slack.png)
