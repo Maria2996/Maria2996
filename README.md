@@ -11,3 +11,10 @@ Programadora Front End en formación, con sólida experiencia previa en atenció
 ![vscode](Images/vscode.png)
 ![figma](Images/figma.png)
 ![slack](Images/slack.png)
+
+## Idiomas
+Español & Catalán - Nativo
+
+Inglés – C1 Avanzado (Certificado EF SET, 65/100)
+
+Coreano A2
