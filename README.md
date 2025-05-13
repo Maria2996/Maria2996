@@ -5,7 +5,7 @@ Programadora Front End en formación, con sólida experiencia previa en atenció
 [![github](Images/github.png)](https://github.com/Maria2996)
 ### Lenguajes
 ![html5](Images/html5.png)
-![CSS3](images/CSS3.png)
+![CSS3](Images/CSS3.png)
 
 ### Herramientas
 ![vscode](Images/vscode.png)
