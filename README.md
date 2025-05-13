@@ -4,10 +4,10 @@ Programadora Front End en formación, con sólida experiencia previa en atenció
 [![linkedin](Images/linkedin.png)](https://www.linkedin.com/in/mar%C3%ADa-romero-283006117/)
 [![github](Images/github.png)](https://github.com/Maria2996)
 ### Lenguajes
-![html5](images/html5.png)
+![html5](Images/html5.png)
 ![CSS3](images/CSS3.png)
 
 ### Herramientas
-![vscode](images/vscode.png)
-![figma](images/figma.png)
-![slack](images/slack.png)
+![vscode](Images/vscode.png)
+![figma](Images/figma.png)
+![slack](Images/slack.png)
